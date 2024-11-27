@@ -3,7 +3,7 @@ public class Subscripcion {
 
     private int precio;
 
-    // precio total de la subscripción euro-cent      
+    // precio total de la subscripción euro-cent
 
     private int periodo; // periodo de subscripcion en meses
 
@@ -47,7 +47,6 @@ public class Subscripcion {
 
     }
 }
-    
-     
-    
-     
+
+
+
