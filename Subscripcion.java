@@ -1,6 +1,6 @@
 public class Subscripcion {    
 
- 
+ //vfdgfd
 
     private int precio ;  
     
